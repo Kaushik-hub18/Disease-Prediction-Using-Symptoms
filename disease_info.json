@@ -1,0 +1,166 @@
+{
+  "Fungal infection": {
+    "description": "A skin or mucous‑membrane infection caused by fungi such as dermatophytes or yeasts. Symptoms often include itching, redness and circular rashes.",
+    "remedy": "Keep the area clean and dry, apply a topical antifungal cream (e.g., clotrimazole) twice daily, and consult a doctor if no improvement within a week."
+  },
+  "Allergy": {
+    "description": "An overreaction of the immune system to harmless substances like pollen, food or dust, leading to sneezing, itching or rashes.",
+    "remedy": "Avoid known allergens, take oral antihistamines, use nasal sprays for congestion and seek medical advice for severe reactions."
+  },
+  "GERD": {
+    "description": "Gastro‑oesophageal reflux disease: stomach acid repeatedly flows back into the oesophagus causing heartburn or regurgitation.",
+    "remedy": "Eat smaller meals, avoid lying down after eating, limit spicy/fatty foods, take proton‑pump inhibitors (e.g., omeprazole) as advised."
+  },
+  "Chronic cholestasis": {
+    "description": "A long‑term reduction or stoppage of bile flow, leading to jaundice, itching and fat‑malabsorption.",
+    "remedy": "Follow a low‑fat diet, take vitamin‑A/D/E/K supplements, use bile‑acid binders for itching and work with a hepatologist."
+  },
+  "Drug Reaction": {
+    "description": "Adverse response of the body to a medication, ranging from mild rashes to severe anaphylaxis.",
+    "remedy": "Stop the suspected drug immediately, take antihistamines/corticosteroids for rash, and seek emergency care for breathing difficulty."
+  },
+  "Peptic ulcer diseae": {
+    "description": "Open sores in the lining of stomach or duodenum caused by acid erosion, often linked to H. pylori infection.",
+    "remedy": "Use proton‑pump inhibitors, test‑and‑treat H. pylori, avoid NSAIDs, caffeine and alcohol, and eat small frequent meals."
+  },
+  "AIDS": {
+    "description": "Acquired Immunodeficiency Syndrome, the advanced stage of HIV infection where immunity is severely weakened.",
+    "remedy": "Strict adherence to antiretroviral therapy, regular CD4/viral‑load monitoring, safe‑sex practices and prompt treatment of opportunistic infections."
+  },
+  "Diabetes ": {
+    "description": "Chronic metabolic disorder marked by high blood glucose due to insulin deficiency or resistance.",
+    "remedy": "Follow a balanced low‑glycaemic diet, exercise 30 min daily, take oral hypoglycaemics or insulin as prescribed and monitor blood sugar regularly."
+  },
+  "Gastroenteritis": {
+    "description": "Inflammation of the stomach and intestines, usually viral or bacterial, causing diarrhoea, vomiting and abdominal cramps.",
+    "remedy": "Stay hydrated with ORS, eat a bland BRAT diet, avoid dairy/caffeine, and consult a doctor if symptoms are severe or prolonged."
+  },
+  "Bronchial Asthma": {
+    "description": "Chronic inflammatory airway disease causing wheeze, breathlessness and cough, often triggered by allergens or exercise.",
+    "remedy": "Use inhaled corticosteroids daily, carry a short‑acting bronchodilator inhaler, identify and avoid triggers, schedule regular lung‑function checks."
+  },
+  "Hypertension": {
+    "description": "Consistently elevated arterial blood pressure that increases cardiovascular risk.",
+    "remedy": "Limit salt (<5 g/day), exercise 150 min/week, maintain healthy weight, take antihypertensives such as ACE inhibitors or beta‑blockers as directed."
+  },
+  "Migraine": {
+    "description": "Recurrent throbbing headaches often accompanied by nausea, photophobia or aura.",
+    "remedy": "Rest in a dark quiet room, apply cold compress, take NSAIDs or triptans early in the attack, and consider prophylactics if frequent."
+  },
+  "Cervical spondylosis": {
+    "description": "Age‑related wear of cervical spine discs leading to neck pain and stiffness.",
+    "remedy": "Perform neck‑strengthening exercises, maintain good posture, apply heat/ice, use NSAIDs for pain and consult physiotherapy if persistent."
+  },
+  "Paralysis (brain hemorrhage)": {
+    "description": "Loss of muscle function due to bleeding in the brain, often presenting as stroke‑like weakness.",
+    "remedy": "Seek emergency neurology care, undergo imaging, follow rehabilitation with physiotherapy and adhere to blood‑pressure control."
+  },
+  "Jaundice": {
+    "description": "Yellowing of skin and eyes from excess bilirubin, signalling liver or bile‑duct disorders.",
+    "remedy": "Identify underlying cause (e.g., hepatitis, obstruction), rest, avoid alcohol, follow liver‑friendly diet and monitor bilirubin levels."
+  },
+  "Malaria": {
+    "description": "Mosquito‑borne parasitic disease causing cyclical fever, chills and anemia.",
+    "remedy": "Take full course of antimalarial drugs (e.g., artemisinin combination), use mosquito nets/repellent and stay hydrated."
+  },
+  "Chicken pox": {
+    "description": "Highly contagious varicella‑zoster viral illness with itchy vesicular rash and mild fever.",
+    "remedy": "Use calamine lotion, keep nails short to prevent scratching, take antihistamines for itch and isolate until lesions crust."
+  },
+  "Dengue": {
+    "description": "Viral fever transmitted by Aedes mosquitoes, characterised by high fever, joint pain and possible bleeding.",
+    "remedy": "Take paracetamol (avoid NSAIDs), drink plenty of fluids, monitor platelet counts, and seek hospital care for warning signs of shock."
+  },
+  "Typhoid": {
+    "description": "Systemic bacterial infection by Salmonella typhi causing prolonged fever and abdominal pain.",
+    "remedy": "Complete full antibiotic course (e.g., azithromycin/ceftriaxone), maintain hydration, eat soft diet and practice good sanitation."
+  },
+  "hepatitis A": {
+    "description": "Acute viral liver infection spread via contaminated food/water, causing jaundice and flu‑like symptoms.",
+    "remedy": "Rest, maintain nutrition, avoid alcohol, practise good hygiene and receive HAV vaccination for prevention."
+  },
+  "Hepatitis B": {
+    "description": "Chronic liver infection by HBV that may lead to cirrhosis or cancer.",
+    "remedy": "Regular liver function monitoring, antiviral therapy if indicated, avoid alcohol and vaccinate close contacts."
+  },
+  "Hepatitis C": {
+    "description": "Blood‑borne viral liver infection that often becomes chronic.",
+    "remedy": "Complete direct‑acting antiviral regimen (e.g., sofosbuvir combination) and follow up for liver fibrosis."
+  },
+  "Hepatitis D": {
+    "description": "Defective hepatitis virus needing HBV for replication, worsening HBV infection.",
+    "remedy": "Prevent by HBV vaccination, consider peg‑interferon therapy and monitor closely for cirrhosis signs."
+  },
+  "Hepatitis E": {
+    "description": "Self‑limiting water‑borne viral hepatitis, especially dangerous in pregnancy.",
+    "remedy": "Rest, adequate fluids, avoid hepatotoxic drugs and ensure safe drinking water."
+  },
+  "Alcoholic hepatitis": {
+    "description": "Inflammation of the liver due to excessive alcohol intake, leading to jaundice and liver enlargement.",
+    "remedy": "Immediate alcohol cessation, good nutrition, corticosteroids for severe cases and regular follow‑ups with a hepatologist."
+  },
+  "Tuberculosis": {
+    "description": "Chronic bacterial infection (Mycobacterium tuberculosis) most commonly affecting lungs.",
+    "remedy": "Take full 6‑month multidrug regimen (HRZE), ensure DOTS supervision, good ventilation and adequate nutrition."
+  },
+  "Common Cold": {
+    "description": "Mild viral upper‑respiratory infection causing runny nose, sore throat and cough.",
+    "remedy": "Rest, drink warm fluids, use saline nasal spray, take decongestants/paracetamol for symptom relief."
+  },
+  "Pneumonia": {
+    "description": "Lung infection causing fever, cough, chest pain and breathlessness.",
+    "remedy": "Consult a doctor for antibiotics if bacterial, rest, stay hydrated and use a humidifier for comfort."
+  },
+  "Dimorphic hemmorhoids(piles)": {
+    "description": "Swollen veins in the lower rectum and anus causing pain or bleeding.",
+    "remedy": "Increase dietary fibre, drink plenty of water, use topical creams and consider medical/surgical options if severe."
+  },
+  "Heart attack": {
+    "description": "Acute blockage of coronary arteries leading to damage of heart muscle (myocardial infarction).",
+    "remedy": "Call emergency, chew aspirin while waiting, receive reperfusion therapy (PCI/thrombolysis) and follow long‑term cardiac rehab."
+  },
+  "Varicose veins": {
+    "description": "Enlarged twisted veins, usually in legs, due to valve weakness.",
+    "remedy": "Wear compression stockings, elevate legs, exercise, and seek vascular surgery opinion for painful or ulcerated veins."
+  },
+  "Hypothyroidism": {
+    "description": "Underactive thyroid gland causing fatigue, weight gain and cold intolerance.",
+    "remedy": "Daily levothyroxine replacement, monitor TSH every 6‑12 weeks until stable, and maintain adequate iodine intake."
+  },
+  "Hyperthyroidism": {
+    "description": "Overactive thyroid producing excess hormones, leading to weight loss, tremor and palpitations.",
+    "remedy": "Take antithyroid drugs (carbimazole), consider beta‑blockers for symptoms and discuss radio‑iodine or surgery if indicated."
+  },
+  "Hypoglycemia": {
+    "description": "Dangerously low blood glucose (<70 mg/dL) causing dizziness, sweating and confusion.",
+    "remedy": "Consume 15 g fast‑acting carbs (glucose tablets/juice), re‑check glucose in 15 min, repeat if needed and adjust medications."
+  },
+  "Osteoarthristis": {
+    "description": "Degenerative joint disease causing cartilage breakdown, pain and stiffness, especially in knees and hips.",
+    "remedy": "Regular low‑impact exercise, weight control, NSAIDs/acetaminophen for pain and consider joint replacement for severe cases."
+  },
+  "Arthritis": {
+    "description": "Inflammation of one or more joints leading to pain and swelling (includes rheumatoid and other types).",
+    "remedy": "Use DMARDs/NSAIDs as prescribed, perform physiotherapy, and apply hot/cold packs for symptom relief."
+  },
+  "Vertigo": {
+    "description": "Sensation of spinning dizziness often caused by inner‑ear problems.",
+    "remedy": "Perform Epley manoeuvre for BPPV, take vestibular suppressants (meclizine) short‑term and practice balance rehab exercises."
+  },
+  "Acne": {
+    "description": "Clogged hair follicles and oil glands causing pimples on face, chest or back.",
+    "remedy": "Cleanse gently twice daily, use benzoyl peroxide or salicylic acid, avoid picking and consult dermatologist for retinoids/oral meds."
+  },
+  "Urinary tract infection": {
+    "description": "Bacterial infection of any part of urinary system, causing burning urination and frequent urge.",
+    "remedy": "Drink plenty of water, take prescribed antibiotics (e.g., nitrofurantoin) and practice proper genital hygiene."
+  },
+  "Psoriasis": {
+    "description": "Chronic autoimmune skin disease with thick red scaly plaques.",
+    "remedy": "Apply topical corticosteroids/vitamin‑D analogs, use moisturisers, phototherapy or systemic agents for extensive disease."
+  },
+  "Impetigo": {
+    "description": "Contagious superficial bacterial skin infection producing honey‑coloured crusts.",
+    "remedy": "Gently cleanse lesions, apply mupirocin ointment, use oral antibiotics for widespread cases and maintain good hygiene."
+  }
+}
